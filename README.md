@@ -1,8 +1,22 @@
-# React + Vite
+# Facebook Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Facebook clone built with React, Firebase, and Material-UI.
 
-Currently, two official plugins are available:
+## Features
 
--   [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
--   [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   Real-time post feed using Firebase Firestore
+-   Google Authentication
+-   Create posts with text and image URLs
+-   Like, comment, and share functionality
+-   Responsive design
+-   Facebook-style UI using Material-UI components
+-   React Context API for state management
+-   Embedded Facebook plugin widget
+
+## Technologies Used
+
+-   React
+-   Firebase (Authentication, Firestore, Hosting)
+-   Material-UI
+-   React Context API
+-   HTML/CSS
