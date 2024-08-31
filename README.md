@@ -2,9 +2,9 @@
 
 A full-stack Facebook clone built with React, Firebase, and Material-UI.
 
-https://github.com/user-attachments/assets/a1ded087-6fed-48c6-aeb6-e6a3029af3de
+https://github.com/user-attachments/assets/4efb313b-db2c-4d68-80a5-59fc91f25dda
 
-https://github.com/user-attachments/assets/3ba4e5f0-6da6-435e-85d7-b873bd2418a9
+https://github.com/user-attachments/assets/8d76203f-063d-4c0d-9021-0b1818af217b
 
 ## Features
 
